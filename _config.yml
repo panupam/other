@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Pranav K Anupam
-social_links:
+cayman:  
+  social_links:
     twitter: _itspranav
     github: panupam
     facebook: pranavkanupam
