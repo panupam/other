@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
-title: Pranav K Anupam 
+title: Pranav K Anupam
+minima: 
+  social_links:
+    twitter: _itspranav
+    github: panupam
+    facebook: pranavkanupam
+    instagram: _itspranav
+    email: kumarpranav033@gmail.com
+
