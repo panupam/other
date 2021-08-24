@@ -1,5 +1,7 @@
 # Pranav Kumar Anupam 
 
+### [Link to Statistics & Actuarial Science Blog ](https://panupam.github.io/blogh)
+
 ## About Me
 
 I am pursuing _B.Sc. (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and expected to graduate in 2022.
