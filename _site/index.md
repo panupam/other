@@ -1,6 +1,6 @@
 # Pranav Kumar Anupam 
 
-### [Link to Statistics & Actuarial Science Blog ](https://panupam.github.io/blogh)
+### [Link to Statistics & Actuarial Science Blog ](https://panupam.github.io/blog)
 
 ## About Me
 
@@ -19,6 +19,7 @@ I have working knowledge of R, Python, C/C++ . I have used Arch Linux, Windows a
 I use LaTeX & Beamer for presentations.
 
 I like to read novels, short stories, poems. I am fluent in both English and Hindi. 
+
 
 ## Contact Me
 
