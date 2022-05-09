@@ -1,6 +1,5 @@
 # Pranav Kumar Anupam 
 
-### [Link to Statistics & Actuarial Science Blog ](https://panupam.github.io/blog)
 
 ## About Me
 
