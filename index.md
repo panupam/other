@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am pursuing _B.Sc. (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and expected to graduate in 2022.
+I have completed _B.Sc. (H) Statistics_ from **Ramjas College DU**. I joined Ramjas College in 2019 and graduated in 2022. 
 
  I hail from Madhepura, Bihar, India. 
 
@@ -13,11 +13,14 @@ I have keen interest in computers.
 
 My primary academic interest are in Data Analysis and Actuarial Science. 
 
-I have working knowledge of R, Python, C/C++ . I have used Arch Linux, Windows and Ubuntu. 
+I have working knowledge of R, Python, C/C++ . I have used Arch Linux, Windows and Ubuntu. Currently I am using Garuda Linux for daily tasks. 
 
 I use LaTeX & Beamer for presentations.
 
-I like to read novels, short stories, poems. I am fluent in both English and Hindi. 
+I like to read novels, short stories, poems.
+
+I am fluent in English and Hindi. I can understand a bit of Punjabi (Written & Spoken).
+
 
 
 ## Contact Me
